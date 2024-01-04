@@ -1,2 +1,3 @@
 # Mindustry-mod
-Just trying modding so don’t think this mod will be over the to good
+am new to github so am completely unknown to coding 
+
